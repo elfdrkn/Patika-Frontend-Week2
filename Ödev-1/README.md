@@ -1,0 +1,1 @@
+CSS ve HTML kullanarak bir blog gönderisi sitesi tasarladık.
