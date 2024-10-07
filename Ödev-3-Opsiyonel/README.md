@@ -1,0 +1,1 @@
+Bu ödevde basit bir şekilde CSS kullanarak kullanıcıdan veri aldığımız kayıt formu oluşturduk.
